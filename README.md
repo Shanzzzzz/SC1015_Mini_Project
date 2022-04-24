@@ -14,7 +14,7 @@ https://www.cdc.gov/brfss/annual_data/annual_data.htm
 
 https://www.kaggle.com/datasets/sakinak/behavioral-risk-factor-surveillance-survey-201619
   
-___
+
 
 <h2> Overview of Project </h2> 
   <ol>
@@ -26,7 +26,6 @@ ___
     <li> Conclusion and Recommendations </li> 
   </ol>
 
-___
 
 ## Problem Definition (Classification Type)
 
