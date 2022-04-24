@@ -16,86 +16,127 @@ Values:
 0: Male
 1: Female
 
+Marital Status:
 Marital status of respondent
+Values:
+1: Married
+2: Divorced
+3: Widowed
+4: Seperated
+5: Never married
+6: A member of an unmarried couple
 
+Income Category:
 Income category of respondent
+Values:
+1: <$10,000
+2: $10,000 ~ $15,000
+3: $15,000 ~ $20,000
+4: $20,000 ~ $25,000
+5: $50,000 ~ $35,000
+6: $35,000 ~ $50,000
+7: $50,000 ~ $75,000
+8: >$75,000
 
+Education Level:
 Level of education completed by respondent
+Values:
+1: Did not graduate High School
+2: Graduated High Scheel
+3: Attended College or Technical School
+4: Graduated from College or Technical School
 
-# General health of respondent (Self-opinion)
+General Health:
+General health of respondent 
+Values:
+1: Excellent
+2: Very good
+3: Good
+4: Fair
+5: Poor
 
-# Coronary heart disease/Myocardial infarction
-# Values:
-# 0: Did not report having MI or CHD
-# 1: Reported having MI or CHD
+Coronary heart disease/Myocardial infarction:
+Reported having CHD/MI
+Values:
+0: Did not report having MI or CHD
+1: Reported having MI or CHD
 
-# Stroke
-# Values:
-# 0: No
-# 1: Yes
+Stroke:
+Was the respondent ever told to have stroke
+Values:
+0: No
+1: Yes
 
-# Depressive disorder
-# Values:
-# 0: No
-# 1: Yes
+Depressive disorder:
+Was the respondent ever told to have depressive disorder
+Values:
+0: No
+1: Yes
 
-# Kidney disease
-# Values:
-# 0: No
-# 1: Yes
+Kidney disease:
+Was the respondent ever told to have kidney disease
+Values:
+0: No
+1: Yes
 
-# Diabetes
-# Values:
-# 0: No
-# 1: Pre-diabetes/Borderline diabetes
-# 2: Yes
+Diabetes:
+Was the respondent ever told to have diabetes
+Values:
+0: No
+1: Pre-diabetes/Borderline diabetes
+2: Yes
 
-# Arthritis
-# Values:
-# 0: Not diagnosed with arthritis
-# 1: Diagnosed with arthritis
+Arthritis:
+Was the respondent ever told to have some form of arthritis
+Values:
+0: Not diagnosed with arthritis
+1: Diagnosed with arthritis
 
-# How long since last routine checkup
-# Values:
-# 1: Less than 12 months
-# 2: 1 to 2 years
-# 3: 2 to 5 years
-# 4: 5 or more years
+Time since last routine checkup:
+How long since last routine checkup
+Values:
+1: Less than 12 months
+2: 1 to 2 years
+3: 2 to 5 years
+4: 5 or more years
 
-# High blood sugar/diabetes test (In the past 3 years)
-# Values:
-# 0: No
-# 1: Yes
+High blood sugar/diabetes test:
+(In the past 3 years)
+Values:
+0: No
+1: Yes
 
-# Exercise in the past 30 days
-# Values:
-# 0: No exercise (in last 30 days)
-# 1: Had exercise 
+Workout:
+Exercise in the past 30 days
+Values:
+0: No exercise (in last 30 days)
+1: Had exercise 
 
-# Smoker status
-# Values:
-# 1: Current smoker (Every day)
-# 2: Current smoker (Some days)
-# 3: Former smoker
-# 4: Never smoked
+Smoker status:
+(Self Explanatory)
+Values:
+1: Current smoker (Every day)
+2: Current smoker (Some days)
+3: Former smoker
+4: Never smoked
 
-# Heavy drinker
-# Values:
-# 0: Yes
-# 1: No
+Heavy drinker:
+(Self Explanatory)
+Values:
+0: Yes
+1: No
 
-# (Did the respondent have any type of) Cancer
-# Values:
-# 0: No
-# 1: Yes
-
-
+Cancer:
+Did the respondent have any type of Cancer
+Values:
+0: No
+1: Yes
 
 
 # Numerical Variables
 
 Height:
-Height of the respondent in meters
+Height of the respondent in centimeters
 
 Weight:
 Weight of the respondent in kilograms
@@ -103,8 +144,11 @@ Weight of the respondent in kilograms
 BMI:
 Body Mass Index(BMI) of the respondent
 
-# Number of days when mental health is poor (In past 30 days)
+Mental Health:
+Number of days when mental health is poor (In past 30 days)
 
-# Number of days when physical health is poor (In past 30 days)
+Physical Health:
+Number of days when physical health is poor (In past 30 days)
 
-# Hours of sleep in 24-hour period
+Sleep Time:
+Number of hours of sleep in 24-hour period
