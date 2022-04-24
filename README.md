@@ -1,5 +1,44 @@
-# SC1015_Mini_Project
-SC1015 Data Science Mini Project
+# SC1015 SC1 - Group 8 - Project 
 
-#### The dataset used is the 2020 Behavioral Risk Factor Surveillance System (BRFSS) data provided by the Centers for Disease Control and Prevention (CDC), a national public health agency of the United States. 
-#### The chosen dataset contains information of 401,958 records of the surveys conducted through landline and cellular telephone. According to CDC, the BRFSS's aims to collect data about chronic diseases and conditions, health risk behaviors, accessibility to health care facilities, and use of health services related to causes of disability and death.
+## About
+
+This is a Mini-Project for CS1015 Introduction to Data Science and Machine Learning.
+
+<b> Our Dataset: </b> https://www.cdc.gov/brfss/annual_data/annual_data.htm
+  
+## Contributors
+
+- @Han Zhiguang - Exploratory Data Analysis, Logistic Regression
+- @Tan Jin Shan - Data Cleaning, Exploratory Data Analysis, Random Forest
+- @NGUYEN GIA KHANH - Deep Neural Network, insights
+
+<h2> Overview of Project </h2> 
+  <ol>
+    <li> Problem Definition </li> 
+    <li> Data Preparation and Exploratory Data Analysis (EDA) </li> 
+    <li> Machine Learning  </li> 
+    <li> Conclusion </li> 
+  </ol>
+
+## Problem Definition
+
+- Are we able to predict the Coronary Heart Diease?
+- Which model would be the best to predict it?
+
+## Models Used
+
+1. Logistic Regression
+2. Random Forest Classification
+3. Deep Neural Network
+
+## Conclusion
+
+
+
+## What did we learn from this project?
+
+
+## References
+https://www.cdc.gov/brfss/annual_data/annual_data.htm
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
