@@ -27,9 +27,9 @@ https://www.kaggle.com/datasets/sakinak/behavioral-risk-factor-surveillance-surv
   </ol>
 
 
-## Problem Definition (Classification Type)
+## Problem Definition 
 
-- Can we use machine learning to predict if an individual has Coronary Heart Diease/Myocardial Infarction?
+- Can we use machine learning to predict if an individual has Coronary Heart Diease/Myocardial Infarction? (Classification Type)
 - Which model would be perform best for the prediction?
 
 ## Data Preparation and Cleaning
@@ -77,7 +77,7 @@ https://www.kaggle.com/datasets/sakinak/behavioral-risk-factor-surveillance-surv
 
 ___
 
-## What did we learn from this project?
+## Learning Outcomes of the Project
 
 <ul>
   <li>Ways to resample imbalanced datasets </li>
@@ -87,7 +87,7 @@ ___
 </ul>
 
 
-## Contributors
+## Group Members
 
 - @Han Zhiguang - Exploratory Data Analysis, Logistic Regression
 - @Tan Jin Shan - Data Cleaning, Exploratory Data Analysis, Random Forest
